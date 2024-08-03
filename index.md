@@ -15,6 +15,8 @@ Hello world
 
 ###### Ann Maria Jaison
 
-Here is an example of a shell command:
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
